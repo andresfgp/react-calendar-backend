@@ -1,5 +1,11 @@
 # Backend MERN - Calendar
 
-Backend que creamos en mi curso de React: de cero a experto
-
-[fernando-herrera.com](https://fernando-herrera.com/#/search/react)
+# initial setup
+- https://cloud.mongodb.com/ go to mongo 
+- Create a database
+- Create a user in database access
+- go to database connect - compass - copy link with password created in user database
+- copy link in .env
+- npm install
+- npm start
+- DB Online
